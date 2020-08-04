@@ -1,2 +1,3 @@
-# udacity_deng_proj03
-This is the repo for project #3 from the Udacity Data Engineering Nanodegree program
+# Udacity Data Engineering Nanodegree - Project 3
+
+- Implementing a Reshift Data Warehouse on AWS 
